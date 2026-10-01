@@ -1,11 +1,45 @@
-<h1 align="center">Hi 👋, I'm Caimy</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
-
-- 🔭 I’m currently working on [test](test)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Título e Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2LkMTg3d3NjNjNjNjNjNjNjNjNjNjNjNjNjNjNjNjNjNjNjNjNjNjo/giphy.gif" width="100%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h1 align="center">📜 License: Caimy Hunter Pro</h1>
+<p align="center">
+  <i>> Apenas aqueles que passaram no Exame Hunter podem acessar este repositório.</i>
+</p>
+<br>
+
+<!-- Bio Temática -->
+<p align="center">
+  <b>Localização:</b> 🇧🇷 Brasil | <b>Nen Category:</b> ✨ Emissor | <b>License Rank:</b> Pro Hunter
+</p>
+
+---
+
+<!-- Título Customizado -->
+<h2 align="center">⚡ O Meu Hatsu (Skills)</h2>
+
+<!-- Lista de Stacks (Use Skill Icons ou Shields.io estilizados) -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,aws,csharp,docker,git,html,css,js,ts,react,postgres&theme=discord" />
+</p>
+
+---
+
+<!-- Seção de Projetos -->
+<h2 align="center">🏆 Arquivo dos Hunters</h2>
+
+<!-- Card de Projeto (Exemplo visual) -->
+<a href="URL_DO_SEU_PROJETO">
+  <img src="https://img.shields.io/badge/Projeto_01-HunterPedia_API-4A148C?style=for-the-badge&logo=json&labelColor=1A1A1A" width="49%">
+</a>
+<a href="URL_DO_SEU_PROJETO">
+  <img src="https://img.shields.io/badge/Projeto_02-Nen_Calculator-F1C40F?style=for-the-badge&logo=angular&labelColor=1A1A1A" width="49%">
+</a>
+
+---
+
+<!-- Rodapé -->
+<p align="center">
+  <i>"Não peça desculpas, apenas mostre o seu poder."</i>
+</p>
