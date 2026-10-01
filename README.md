@@ -1,6 +1,6 @@
 <!-- Título e Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2LkMTg3d3NjNjNjNjNjNjNjNjNjNjNjNjNjNjNjNjNjNjNjNjNjNjo/giphy.gif" width="100%">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Rvc3dyMDkzaWcwNHp1emV2cTIwcnEzMjhtazFrdm1wZDdpbzZncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qb1eHxhUHLdsc/giphy.gif" width="100%">
 </p>
 
 <h1 align="center">📜 License: Caimy Hunter Pro</h1>
