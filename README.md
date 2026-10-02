@@ -6,7 +6,9 @@
 </p>
 <br>
 
-<img align="left" width="45%" hspace="20" src="https://github.com/user-attachments/assets/11d665d1-e0d1-49cf-94ca-9a91e80aa69a" alt="Hunter x Hunter Banner" />
+<img align="left" width="40%" src="https://github.com/user-attachments/assets/11d665d1-e0d1-49cf-94ca-9a91e80aa69a" alt="Hunter x Hunter Banner" />
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ```csharp
 public class Developer {
