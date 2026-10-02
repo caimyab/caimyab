@@ -6,9 +6,13 @@
 </p>
 <br>
 
-<img align="left" width="40%" src="https://github.com/user-attachments/assets/11d665d1-e0d1-49cf-94ca-9a91e80aa69a" alt="Hunter x Hunter Banner" />
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<table align="center" width="100%" style="border: none;">
+  <tr>
+    <td width="42%" valign="middle" style="border: none;">
+      <img src="https://github.com/user-attachments/assets/11d665d1-e0d1-49cf-94ca-9a91e80aa69a" width="100%" alt="Hunter x Hunter Banner" />
+    </td>
+    <td width="4%" style="border: none;"></td>
+    <td width="54%" valign="middle" style="border: none;">
 
 ```csharp
 public class Developer {
