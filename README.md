@@ -1,3 +1,4 @@
+<img width="500" height="279" alt="Hunter X Hunter GIF" src="https://github.com/user-attachments/assets/11d665d1-e0d1-49cf-94ca-9a91e80aa69a" />
 <p align="center">
   <img src="https://media.giphy.com/media/qb1eHxhUHLdsc/giphy.gif" width="100%">
 </p>
